@@ -7,4 +7,5 @@
 3. [Retrieval of Temporal Event Sequences from Textual Descriptions](https://arxiv.org/pdf/2410.14043), arxiv, Feb. 2025
 4. [Language-TPP: Integrating Temporal Point Processes with Language Models for Event Analysis](https://arxiv.org/pdf/2502.07139), arxiv, Feb. 2025
 5. [TPP-LLM: MODELING TEMPORAL POINT PROCESSES BY EFFICIENTLY FINE-TUNING LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2410.02062),arxiv, Oct. 2024
+6. [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/pdf/2305.16646), NeurIPS '23
    
